@@ -21,10 +21,9 @@
 
 ## 📊 GitHub Stats
 
-![Satyarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyarth740&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Satyarth740&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyarth740&layout=compact&theme=radical)
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyarth740&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 ## 🔥 Current Projects
 - 📌 Smart Voice & OCR Grocery Management System
