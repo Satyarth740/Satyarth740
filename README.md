@@ -19,11 +19,9 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Satyarth740&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyarth740&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<## 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Satyarth740&theme=tokyonight" />
 
 ## 🔥 Current Projects
 - 📌 Smart Voice & OCR Grocery Management System
