@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Satyarth+Pandey;Machine+Learning+Enthusiast;CSE+Student;Building+AI+Projects;Future+AI+Engineer" />
+</p>
 <h1 align="center">Hi 👋, I'm Satyarth Pandey</h1>
 <h3 align="center">Machine Learning Enthusiast | CSE Student | Building AI Projects</h3>
 
