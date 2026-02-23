@@ -36,6 +36,10 @@
 - LinkedIn: www.linkedin.com/in/satyarth-pandey740
 - Email: satyarthpandey43@gmail.com
 
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Satyarth740/github-snake/output/github-contribution-grid-snake.svg)
+
 - ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
